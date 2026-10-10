@@ -1,0 +1,9 @@
+
+# Git Auto Commit Generator learned data
+.git-auto-commit/
+.venv/
+__pycache__/
+.venv_windows/
+build/
+dist/
+*.spec
